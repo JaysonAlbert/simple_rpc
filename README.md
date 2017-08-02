@@ -1,1 +1,1 @@
-# simple_rpc
+简单的python rpc，使用zlib进行数据压缩之后传输。
